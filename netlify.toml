@@ -6,6 +6,6 @@
   
 [[redirects]]
   from = "/*"
-  to = "https://dev-wahidin.pantheonsite.io/:splat"
+  to = "https://dev-kirmasa.pantheonsite.io/:splat"
   status = 200
   force = true
